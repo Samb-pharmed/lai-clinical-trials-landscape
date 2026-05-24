@@ -134,6 +134,16 @@ The analysis can identify patterns such as:
 - Canada, Germany, China, France, Spain, the United Kingdom, Italy, and Belgium are important secondary geographies for LAI Phase 1-3 development.
 - Product-family level analysis is more actionable than therapeutic-area analysis alone.
 
+## Interactive Maps
+
+The interactive Plotly maps are hosted through GitHub Pages:
+
+- [Development activity score map](https://samb-pharmed.github.io/lai-clinical-trials-landscape/reports/maps/development_country_map_by_score.html)
+- [Trial count map](https://samb-pharmed.github.io/lai-clinical-trials-landscape/reports/maps/development_country_map_by_trial_count.html)
+- [Active trials map](https://samb-pharmed.github.io/lai-clinical-trials-landscape/reports/maps/development_country_map_by_active_trials.html)
+
+If the GitHub file preview does not render, use the GitHub Pages links above or download the HTML file and open it locally.
+
 ## Installation
 
 Clone the repository:
